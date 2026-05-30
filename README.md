@@ -165,7 +165,7 @@ jupyter>=1.0
 
 ## 🙋 About Me
 
-**[Your Name Here]**
+**Udit Ghildiyal**
 Data Analyst | Python · SQL · Power BI
 
 🔗 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
