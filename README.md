@@ -168,7 +168,7 @@ jupyter>=1.0
 **Udit Ghildiyal**
 Data Analyst | Python · SQL · Power BI
 
-🔗 [LinkedIn](www.linkedin.com/in/udit-ghildiyal-774675338)
+🔗 www.linkedin.com/in/udit-ghildiyal-774675338
 🔗 [GitHub](https://github.com/udi1308)
 
 ---
